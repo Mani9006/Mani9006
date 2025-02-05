@@ -16,6 +16,8 @@ _2022 - 2023_
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20">](www.linkedin.com/in/manikanta-reddi1)
 [![Gmail](https://upload.wikimedia.org/wikipedia/commons/0/0a/Gmail_logo.png)](mailto:m.manikantareddy1999@gmail.com)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="20">](mailto:maany.reddi@gmail.com)
+
 
 
 
