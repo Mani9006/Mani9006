@@ -20,5 +20,10 @@ _2022 - 2023_
 [![AWS](https://images.credly.com/size/50x50/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://cp.certmetrics.com/amazon/en/public/verify/credential/3e16f1ea98cd434cac93533eca5dd413)
 [![R](https://img.icons8.com/?size=48&id=CLvQeiwFpit4&format=png)](https://www.datacamp.com/completed/statement-of-accomplishment/course/84f66a476bc10f616b796493969d4c4e7b533186)
 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="44" height="44">](#) &nbsp;&nbsp;&nbsp; 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44" height="44">](#) &nbsp;&nbsp;&nbsp; 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="44" height="44">](#)
+
+
 
 
