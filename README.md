@@ -17,8 +17,8 @@ _2022 - 2023_
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20">](www.linkedin.com/in/manikanta-reddi1)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="20">](mailto:maany.reddi@gmail.com)
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26" height="26">](https://www.linkedin.com/in/your-profile/) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="26">](mailto:your-email@gmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32">](https://www.linkedin.com/in/your-profile/) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32">](mailto:your-email@gmail.com)
 
 
 
