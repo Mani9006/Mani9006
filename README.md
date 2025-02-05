@@ -1,3 +1,6 @@
+
+---
+
 ## **Hi there, I'm Manikanta! 👋**  
 🚀 **Senior Data Engineer | Cloud & Big Data Enthusiast**  
 
@@ -39,14 +42,31 @@
 ---
 
 ## **📫 How to Reach Me**  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="44" height="44">](https://www.linkedin.com/in/manikanta-reddi1) &nbsp;&nbsp;&nbsp; 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="44">](mailto:many.reddi@gmail.com)  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44">](https://github.com/Mani9006)  
+<p align="left">
+<a href="https://www.linkedin.com/in/manikanta-reddi1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="44" height="44">
+</a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:many.reddi@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="44">
+</a> &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Mani9006">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44">
+</a>
+</p>
 
 ---
 
 ## **🎓 Certifications**  
-[![AWS](https://images.credly.com/size/50x50/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://cp.certmetrics.com/amazon/en/public/verify/credential/3e16f1ea98cd434cac93533eca5dd413) &nbsp;&nbsp;&nbsp;  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="44" height="44">](https://www.datacamp.com/completed/statement-of-accomplishment/course/84f66a476bc10f616b796493969d4c4e7b533186) &nbsp;&nbsp;&nbsp;  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44" height="44">](https://www.datacamp.com/completed/statement-of-accomplishment/course/d928af6a4d49da09b51b95a3d638ab058b6aa06d)  
+<p align="left">
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/3e16f1ea98cd434cac93533eca5dd413" target="_blank">
+    <img src="https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="50">
+</a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/84f66a476bc10f616b796493969d4c4e7b533186" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="44">
+</a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/d928af6a4d49da09b51b95a3d638ab058b6aa06d" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44">
+</a>
+</p>
 
+---
