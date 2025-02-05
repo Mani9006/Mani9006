@@ -12,7 +12,7 @@ _2022 - 2023_
 - 📫 How to reach me:
 
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="44" height="44">]www.linkedin.com/in/manikanta-reddi1) &nbsp;&nbsp;&nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="44">](mailto:maany.reddi@gmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="44" height="44">](www.linkedin.com/in/manikanta-reddi1) &nbsp;&nbsp;&nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="44">](mailto:maany.reddi@gmail.com)
 
 
 
