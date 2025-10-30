@@ -232,9 +232,9 @@ Delivered performance dashboards in **Tableau**, driving measurable improvements
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/reddy1999/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Manikanta%20Reddy-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/reddy1999" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Manikanta%20Reddy-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   &nbsp;
-  <a href="mailto:manikantareddyman@gmail.com"><img src="https://img.shields.io/badge/Email-many.reddi%40gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:manikantareddyman@gmail.com"><img src="https://img.shields.io/badge/Email-manikantareddyman%40gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge"></a>
   &nbsp;
   <a href="https://github.com/Mani9006"><img src="https://img.shields.io/badge/GitHub-Mani9006-black?logo=github&logoColor=white&style=for-the-badge"></a>
 </p>
