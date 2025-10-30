@@ -9,7 +9,7 @@
          style="vertical-align:middle; margin-right:10px;" />
     <span style="
       font-size:40px;
-      font-weight:700;
+      font-weight:1000;
       color:#FFFFFF;
       letter-spacing:0.5px;
       font-family:'Segoe UI', Arial, sans-serif;
