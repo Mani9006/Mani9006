@@ -2,8 +2,9 @@
 <h3 align="center">Senior Data Scientist — RAG & Agentic AI for Legal Intelligence</h3>
 
 <p align="center">
-  <a href="https://www.manikantabio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-manikantabio.com-0B72E7?style=for-the-badge" alt="Portfolio"/>
+  <a href="https://www.manikantabio.com" target="_blank" title="Portfolio">
+    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/website_logo.png" width="38" align="center" />
+    &nbsp; <span style="font-weight:700; color:white; font-size:18px;">Portfolio</span>
   </a>
 </p>
 
