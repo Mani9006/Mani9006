@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.manikantabio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-manikantabio.com-0B72E7?style=for-the-badge" />
+    <img src="[https://img.shields.io/badge/Portfolio-manikantabio.com-0B72E7?style=for-the-badge](https://github.com/Mani9006/pulse-robot-template-28729/blob/main/public/logos/website_logo.png)" />
   </a>
 </p>
 
