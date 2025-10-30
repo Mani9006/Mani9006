@@ -2,21 +2,19 @@
 <h3 align="center">Senior Data Scientist — RAG & Agentic AI</h3>
 
 <p align="center">
-  <a href="https://www.manikantabio.com" target="_blank">
-    <!-- single symbol, smaller gap -->
+  <a href="https://www.manikantabio.com" target="_blank"
+     style="display:inline-flex; align-items:center; gap:2px; text-decoration:none;">
     <img
       src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/website_logo.png"
-      height="40" alt="Portfolio logo"
-      style="vertical-align: middle; margin-right: 4px;">
+      height="34" alt="Portfolio logo" />
 
-  <picture style="vertical-align: middle;">
+  <picture>
       <source media="(prefers-color-scheme: light)"
               srcset="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/portfolio_label_dark.svg">
       <source media="(prefers-color-scheme: dark)"
               srcset="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/portfolio_label.svg">
       <img height="34" alt="PORTFOLIO"
-           src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/portfolio_label.svg"
-           style="vertical-align: middle;">
+           src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/portfolio_label.svg" />
     </picture>
   </a>
 </p>
