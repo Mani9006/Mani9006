@@ -1,13 +1,27 @@
 <h1 align="center">Manikanta Reddy Mandadhi</h1>
 <h3 align="center">Senior Data Scientist — RAG & Agentic AI</h3>
 
-<!-- Portfolio button: logo + label (pure images → no underline) -->
 <p align="center">
   <a href="https://www.manikantabio.com" target="_blank">
-    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/website_logo.png"
-         height="34" alt="Portfolio logo" />
-    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/portfolio_label.svg"
-         height="34" alt="PORTFOLIO" />
+    <!-- Switches logo automatically -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://raw.githubusercontent.com/Mani9006/pulse-robot-template-28729/main/public/logos/website_logo.png">
+      <source media="(prefers-color-scheme: light)"
+              srcset="https://raw.githubusercontent.com/Mani9006/pulse-robot-template-28729/main/public/logos/website_logo_dark.png">
+      <img height="34" alt="Portfolio logo"
+           src="https://raw.githubusercontent.com/Mani9006/pulse-robot-template-28729/main/public/logos/website_logo.png">
+    </picture>
+
+    <!-- Switches “PORTFOLIO” label automatically -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://raw.githubusercontent.com/Mani9006/pulse-robot-template-28729/main/public/logos/portfolio_label.svg">
+      <source media="(prefers-color-scheme: light)"
+              srcset="https://raw.githubusercontent.com/Mani9006/pulse-robot-template-28729/main/public/logos/portfolio_label_dark.svg">
+      <img height="34" alt="PORTFOLIO"
+           src="https://raw.githubusercontent.com/Mani9006/pulse-robot-template-28729/main/public/logos/portfolio_label.svg">
+    </picture>
   </a>
 </p>
 
