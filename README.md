@@ -8,7 +8,6 @@
       src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/website_logo.png"
       height="34" alt="Portfolio logo">
 
-    <!-- switch the label between dark/light -->
   <picture>
       <!-- show dark text on LIGHT theme -->
       <source media="(prefers-color-scheme: light)"
