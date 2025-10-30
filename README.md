@@ -1,98 +1,98 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#E83E3E">Manikanta Reddy Mandadhi</span></h1>
-<h3 align="center">Senior Data Scientist — RAG & Agentic AI for Legal Intelligence</h3>
+<h1 align="center">Manikanta Reddy Mandadhi</h1>
+<h3 align="center">Senior Data Scientist — RAG & Agentic AI</h3>
+
+<p align="center">
+  <a href="https://www.manikantabio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-manikantabio.com-0B72E7?style=for-the-badge" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reddy1999" target="_blank" title="LinkedIn">
-    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/linkedin.jpg" width="38" />
+    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/linkedin.jpg" width="36" />
   </a>&nbsp;&nbsp;
   <a href="mailto:manikantareddyman@gmail.com" title="Email">
-    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/gmail.png" width="38" />
+    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/gmail.png" width="36" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Mani9006" target="_blank" title="GitHub">
-    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/github.png" width="38" />
+    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/github.png" width="36" />
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
-I build production **RAG** and **agentic AI** systems at **LexisNexis (Lexis+ AI)**. Here’s the thing: legal questions are nuanced, so I focus on **context-aware retrieval**, **prompt orchestration**, and **re-ranking** that make LLM answers precise, traceable, and safe. What this really means is shipping AI that experts trust.
+## 🧠 About
+I design and ship production **RAG** and **agentic AI** systems for **Lexis+ AI**. The focus: **context-aware retrieval**, **prompt orchestration**, and **re-ranking** that make LLM answers precise, explainable, and safe. In short, AI that legal experts actually trust.
 
 ---
 
-## ⚙️ What I Do
-- **RAG & agents** — pipelines that plan, retrieve, reason, and verify.  
-- **Context & personalization** — practice-area signals, statute re-ranking, and disambiguation.  
-- **Quality & safety** — Guardrails AI, TruLens, and continuous **HRT**.  
-- **Deploy at scale** — FastAPI services on **Azure ML** / **AKS** with eval loops.
+## ⚙️ Focus Areas
+- **RAG & agents** that plan → retrieve → reason → verify  
+- **Personalization** (practice-area signals), **statute re-ranking**, and **disambiguation**  
+- **Quality & safety** with Guardrails AI, TruLens, and continuous **HRT**  
+- **Prod-grade delivery** on Azure ML / AKS with FastAPI and eval loops
 
 ---
 
-## 💼 Experience
+## 💼 Experience (Card Grid)
 
 <table>
 <tr>
-<td width="110"><img src="https://upload.wikimedia.org/wikipedia/en/1/1c/LexisNexis_logo.svg" width="100"></td>
-<td>
 
-### Senior Data Scientist I — LexisNexis (Lexis+ AI)  
-**Jul 2025 – Present · Remote (Dallas, TX)**
-
-I design and ship **RAG** and **agentic** workflows that help LLMs interpret complex **legal user queries**. Work includes practice-area personalization, statute re-ranking, context injection, and robust evaluations via **HRT**, all wrapped with safety controls (Guardrails AI, TruLens) and deployed on **AKS**.
-
+<td width="50%" valign="top">
+  <div align="left">
+    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/lexisnexi.jpeg" width="110"><br><br>
+    <b>Senior Data Scientist I — LexisNexis (Lexis+ AI)</b><br>
+    <i>Jul 2025 – Present · Remote (Dallas, TX)</i><br><br>
+    I build **RAG** and **agentic** workflows that help LLMs interpret complex <b>legal user queries</b>. Work spans
+    practice-area personalization, statute re-ranking, context injection, and robust evaluation via <b>HRT</b>,
+    with safety controls (Guardrails AI, TruLens) and deployments on <b>AKS</b>.
+  </div>
 </td>
+
+<td width="50%" valign="top">
+  <div align="left">
+    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/Comerica.jpg" width="110"><br><br>
+    <b>Machine Learning Engineer — Comerica Bank (Contract)</b><br>
+    <i>Feb 2024 – Jul 2025 · Hybrid (Dallas, TX)</i><br><br>
+    Built GenAI tooling on <b>Azure OpenAI + LangChain + Cognitive Search</b> for document Q&A and summaries.
+    Deployed on <b>AKS</b> with SOC2-aligned controls and validation using <b>Guardrails AI</b> and <b>TruLens</b>.
+  </div>
+</td>
+
 </tr>
-</table>
-
-<table>
 <tr>
-<td width="110"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Comerica_logo.svg" width="100"></td>
-<td>
 
-### Machine Learning Engineer — Comerica Bank (Contract)  
-**Feb 2024 – Jul 2025 · Hybrid (Dallas, TX)**
-
-Built GenAI tools on **Azure OpenAI + LangChain + Cognitive Search** for document Q&A, summaries, and internal support. Deployed on **AKS** with SOC2-aligned controls and validation using **Guardrails AI** and **TruLens**.
-
+<td width="50%" valign="top">
+  <div align="left">
+    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/Sprouts.png" width="110"><br><br>
+    <b>ML Engineer (GenAI) — Sprouts Farmers Market</b><br>
+    <i>Jan 2023 – Jan 2024 · Remote (Phoenix, AZ)</i><br><br>
+    GPT assistant for store ops, BERT sentiment on survey data, forecasting (Prophet/ARIMA), low-latency APIs
+    with Redis caching, and MLflow tracking.
+  </div>
 </td>
-</tr>
-</table>
 
-<table>
-<tr>
-<td width="110"><img src="https://upload.wikimedia.org/wikipedia/en/d/d0/Sprouts_Farmers_Market_logo.svg" width="100"></td>
-<td>
-
-### ML Engineer (GenAI) — Sprouts Farmers Market  
-**Jan 2023 – Jan 2024 · Remote (Phoenix, AZ)**
-
-Built a GPT assistant (inventory/HR/policy), BERT sentiment on survey data, forecasting (Prophet/ARIMA), low-latency APIs with Redis caching, and MLflow tracking.
-
+<td width="50%" valign="top">
+  <div align="left">
+    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/SPENCERS.png" width="110"><br><br>
+    <b>Data Scientist — Spencer’s Retail</b><br>
+    <i>Feb 2020 – Dec 2021 · Hyderabad, India</i><br><br>
+    Customer clustering, repeat-buyer classification (<b>LightGBM</b>), <b>Airflow</b> pipelines across POS sources,
+    OCR + spaCy for invoice analytics, and Tableau KPIs.
+  </div>
 </td>
-</tr>
-</table>
 
-<table>
-<tr>
-<td width="110"><img src="https://upload.wikimedia.org/wikipedia/en/1/1f/Spencer%27s_logo.svg" width="90"></td>
-<td>
-
-### Data Scientist — Spencer’s Retail  
-**Feb 2020 – Dec 2021 · Hyderabad, India**
-
-Customer clustering, repeat-buyer classification (**LightGBM**), **Airflow** pipelines across POS sources, OCR + spaCy for invoice analytics, and Tableau KPIs.
-
-</td>
 </tr>
 </table>
 
 ---
 
 ## 🧩 Highlights
-- Built **RAG** and **agentic AI** systems powering Lexis+ AI.  
-- Boosted **LLM precision on legal queries** with context-aware retrieval and re-ranking.  
-- Drove **practice-area personalization** and **statute re-ranking** experiments.  
-- Hardened **safety and evaluation** with Guardrails AI, TruLens, and HRT.
+- Built **RAG** and **agentic AI** systems powering Lexis+ AI  
+- Boosted **LLM precision on legal queries** via context and re-ranking  
+- Drove **practice-area personalization** and **statute re-ranking** initiatives  
+- Hardened **safety & evaluation** with Guardrails AI, TruLens, and **HRT**
 
 ---
 
@@ -106,7 +106,7 @@ Customer clustering, repeat-buyer classification (**LightGBM**), **Airflow** pip
 ---
 
 ## 🏆 Certifications
-
+<!-- uses exact filenames in pulse-robot-template-28729/public/logos -->
 <table>
 <tr>
 
@@ -216,19 +216,17 @@ Customer clustering, repeat-buyer classification (**LightGBM**), **Airflow** pip
 
 ---
 
-## 🌐 Connect
+## 🌐 Links
 <p align="center">
   <a href="https://www.linkedin.com/in/reddy1999" target="_blank" title="LinkedIn">
-    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/linkedin.jpg" width="36" />
+    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/linkedin.jpg" width="34" />
   </a>&nbsp;&nbsp;
   <a href="mailto:manikantareddyman@gmail.com" title="Email">
-    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/gmail.png" width="36" />
+    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/gmail.png" width="34" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Mani9006" target="_blank" title="GitHub">
-    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/github.png" width="36" />
+    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/github.png" width="34" />
   </a>
 </p>
-
----
 
 <p align="center"><i>Building AI that understands context, reasons clearly, and earns trust.</i></p>
