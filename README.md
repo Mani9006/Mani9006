@@ -98,18 +98,20 @@ Beyond work, I’m passionate about exploring new ways to bring **LLMs into ente
 - **B.Tech, Mechanical Engineering** — CVR College of Engineering (2017–2021)
 
 ---
+## 📂 Projects  
 
-## Projects
-Short, honest one-liners so people can skim fast.
+- [**CarePulse Healthcare Pipeline**](https://github.com/Mani9006/carepulse-healthcare-pipeline)  
+  • End-to-end healthcare data pipeline with ETL, transformation, and patient analytics dashboards.  
 
-| Project | What it is | Link |
-|---|---|---|
-| **CarePulse Healthcare Pipeline** | ETL + analytics demo for healthcare events and patient metrics (clean data flow + dashboards). | https://github.com/Mani9006/carepulse-healthcare-pipeline |
-| **Employee Insights & Attrition Analysis** | Attrition modeling + insights; combines ML with dashboard storytelling. | https://github.com/Mani9006/Employee-Insights-and-Attrition-Analysis |
-| **Strategic Sales & Customer Analytics** | SQL + Python + dashboards for sales performance and customer behavior. | https://github.com/Mani9006/Strategic-Sales-Performance-and-Customer-Analytics-Framework |
-| **SQL for Data Analysis** | A tidy set of SQL exercises and patterns I actually reuse. | https://github.com/Mani9006/sql-for-data-analysis-3271025 |
+- [**Employee Insights & Attrition Analysis**](https://github.com/Mani9006/Employee-Insights-and-Attrition-Analysis)  
+  • Machine learning and visualization project analyzing employee attrition and engagement patterns.  
 
-*(If you want the private repos listed too, I can add “Request Access” stubs or publish read-only mirrors.)*
+- [**Strategic Sales & Customer Analytics**](https://github.com/Mani9006/Strategic-Sales-Performance-and-Customer-Analytics-Framework)  
+  • SQL + Python framework for analyzing sales performance and customer behavior across markets.  
+
+- [**SQL for Data Analysis**](https://github.com/Mani9006/sql-for-data-analysis-3271025)  
+  • A practical collection of SQL examples and queries for analytical data workflows.  
+
 
 ---
 
