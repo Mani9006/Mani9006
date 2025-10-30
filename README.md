@@ -8,7 +8,7 @@
          align="center" 
          style="vertical-align:middle; margin-right:10px;" />
     <span style="
-      font-size:22px;
+      font-size:40px;
       font-weight:700;
       color:#FFFFFF;
       letter-spacing:0.5px;
