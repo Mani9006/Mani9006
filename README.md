@@ -2,11 +2,25 @@
 <h3 align="center">Senior Data Scientist — RAG & Agentic AI for Legal Intelligence</h3>
 
 <p align="center">
-  <a href="https://www.manikantabio.com" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/website_logo.png" width="38" align="center" style="vertical-align: middle; margin-right: 8px;" />
-    <span style="color: white; font-weight: 700; font-size: 18px; vertical-align: middle;">Portfolio</span>
+  <a href="https://www.manikantabio.com" target="_blank" style="text-decoration:none;">
+    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/website_logo.png" 
+         width="45" 
+         align="center" 
+         style="vertical-align:middle; margin-right:10px;" />
+    <span style="
+      font-size:22px;
+      font-weight:700;
+      color:#FFFFFF;
+      letter-spacing:0.5px;
+      font-family:'Segoe UI', Arial, sans-serif;
+      text-decoration:none;
+      vertical-align:middle;
+    ">
+      PORTFOLIO
+    </span>
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reddy1999" target="_blank" title="LinkedIn">
