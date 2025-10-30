@@ -5,23 +5,24 @@
   <a href="https://www.manikantabio.com" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)"
-              srcset="https://raw.githubusercontent.com/Mani9006/pulse-robot-template-28729/main/public/logos/website_logo.png">
+              srcset="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/website_logo.png">
       <source media="(prefers-color-scheme: light)"
-              srcset="https://raw.githubusercontent.com/Mani9006/pulse-robot-template-28729/main/public/logos/website_logo_dark.png">
+              srcset="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/website_logo_dark.png">
       <img height="34" alt="Portfolio logo"
-           src="https://raw.githubusercontent.com/Mani9006/pulse-robot-template-28729/main/public/logos/website_logo.png">
-</picture>
+           src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/website_logo.png">
+    </picture>
 
   <picture>
       <source media="(prefers-color-scheme: dark)"
-              srcset="https://raw.githubusercontent.com/Mani9006/pulse-robot-template-28729/main/public/logos/portfolio_label.svg">
+              srcset="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/portfolio_label.svg">
       <source media="(prefers-color-scheme: light)"
-              srcset="https://raw.githubusercontent.com/Mani9006/pulse-robot-template-28729/main/public/logos/portfolio_label_dark.svg">
+              srcset="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/portfolio_label_dark.svg">
       <img height="34" alt="PORTFOLIO"
-           src="https://raw.githubusercontent.com/Mani9006/pulse-robot-template-28729/main/public/logos/portfolio_label.svg">
+           src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/portfolio_label.svg">
     </picture>
   </a>
 </p>
+
 
 
 
