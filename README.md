@@ -64,7 +64,7 @@ My background blends **data science, ML, and software engineering**. I like taki
   </ul>
 </td>
 <td width="50%" valign="top">
-  <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/Comerica.jpg" width="85" alt="Comerica Bank"><br><br>
+  <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/Comerica.jpg" width="140" alt="Comerica Bank"><br><br>
   <b>Machine Learning Engineer — Comerica Bank (Contract)</b><br>
   <i>Feb 2024 – Jul 2025 · Hybrid (Dallas, TX)</i>
   <ul>
@@ -76,7 +76,7 @@ My background blends **data science, ML, and software engineering**. I like taki
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/Sprouts.png" width="85" alt="Sprouts"><br><br>
+  <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/Sprouts.png" width="180" alt="Sprouts"><br><br>
   <b>ML Engineer (GenAI) — Sprouts Farmers Market</b><br>
   <i>Jan 2023 – Jan 2024 · Remote (Phoenix, AZ)</i>
   <ul>
@@ -86,7 +86,7 @@ My background blends **data science, ML, and software engineering**. I like taki
   </ul>
 </td>
 <td width="50%" valign="top">
-  <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/SPENCERS.png" width="85" alt="Spencer’s"><br><br>
+  <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/SPENCERS.png" width="220" alt="Spencer’s"><br><br>
   <b>Data Scientist — Spencer’s Retail</b><br>
   <i>Feb 2020 – Dec 2021 · Hyderabad, India</i>
   <ul>
