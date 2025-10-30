@@ -3,23 +3,26 @@
 
 <p align="center">
   <a href="https://www.manikantabio.com" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-              srcset="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/website_logo.png">
-      <img height="34" alt="Portfolio logo"
-           src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/website_logo.png">
-    </picture>
+    <!-- your single symbol (no switching) -->
+    <img
+      src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/website_logo.png"
+      height="34" alt="Portfolio logo">
 
+    <!-- switch the label between dark/light -->
   <picture>
-      <source media="(prefers-color-scheme: dark)"
-              srcset="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/portfolio_label.svg">
+      <!-- show dark text on LIGHT theme -->
       <source media="(prefers-color-scheme: light)"
               srcset="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/portfolio_label_dark.svg">
+      <!-- show white text on DARK theme -->
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/portfolio_label.svg">
+      <!-- fallback (shown if no media match) -->
       <img height="34" alt="PORTFOLIO"
            src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/portfolio_label.svg">
     </picture>
   </a>
 </p>
+
 
 
 
