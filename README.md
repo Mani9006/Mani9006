@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://www.manikantabio.com" target="_blank">
-    <!-- Auto-switching logo -->
     <picture>
       <source media="(prefers-color-scheme: dark)"
               srcset="https://raw.githubusercontent.com/Mani9006/pulse-robot-template-28729/main/public/logos/website_logo.png">
@@ -13,7 +12,6 @@
            src="https://raw.githubusercontent.com/Mani9006/pulse-robot-template-28729/main/public/logos/website_logo.png">
     </picture>
 
-    <!-- Auto-switching PORTFOLIO text -->
     <picture>
       <source media="(prefers-color-scheme: dark)"
               srcset="https://raw.githubusercontent.com/Mani9006/pulse-robot-template-28729/main/public/logos/portfolio_label.svg">
@@ -24,6 +22,7 @@
     </picture>
   </a>
 </p>
+
 
 
 <!-- Social icons (your own assets) -->
