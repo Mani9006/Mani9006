@@ -6,7 +6,7 @@
     <!-- single symbol, smaller gap -->
     <img
       src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/website_logo.png"
-      height="34" alt="Portfolio logo"
+      height="46" alt="Portfolio logo"
       style="vertical-align: middle; margin-right: 4px;">
 
   <picture style="vertical-align: middle;">
