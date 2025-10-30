@@ -1,51 +1,44 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#E83E3E">Manikanta Reddy Mandadhi</span></h1>
-<h3 align="center">🚀 Senior Data Scientist | Generative & Agentic AI | LLM Systems</h3>
+<h3 align="center">Senior Data Scientist — RAG & Agentic AI for Legal Intelligence</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manikanta-reddi1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-  </a> &nbsp;
-  <a href="mailto:manikantareddyman@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" />
-  </a> &nbsp;
-  <a href="https://github.com/Mani9006" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <a href="https://www.linkedin.com/in/reddy1999" target="_blank" title="LinkedIn">
+    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/linkedin.jpg" width="38" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:manikantareddyman@gmail.com" title="Email">
+    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/gmail.png" width="38" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Mani9006" target="_blank" title="GitHub">
+    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/github.png" width="38" />
   </a>
 </p>
 
 ---
 
-## 🧠 About Me  
-
-I'm a **Senior Data Scientist at LexisNexis**, where I design and deploy **RAG and Agentic AI systems** for the **Lexis+ AI** platform — transforming how legal professionals search, reason, and draft.  
-My work focuses on **LLM orchestration**, **contextual retrieval**, and **AI safety frameworks** that make generative systems both powerful and reliable.  
-I’m driven by one idea — building AI that truly understands context, reasons with precision, and delivers trustworthy results.
+## 🧠 About Me
+I build production **RAG** and **agentic AI** systems at **LexisNexis (Lexis+ AI)**. Here’s the thing: legal questions are nuanced, so I focus on **context-aware retrieval**, **prompt orchestration**, and **re-ranking** that make LLM answers precise, traceable, and safe. What this really means is shipping AI that experts trust.
 
 ---
 
-## ⚙️ What I Do  
-
-- 🔹 **RAG & Agentic AI Systems** — Design retrieval-augmented and agent-driven pipelines for Lexis+ AI.  
-- 🔹 **Context-Aware LLM Orchestration** — Improve how models interpret and respond to complex legal queries.  
-- 🔹 **Personalization & Re-Ranking** — Lead experiments on practice-area relevance, statute re-ranking, and context injection.  
-- 🔹 **AI Reliability & Safety** — Apply Guardrails AI, TruLens, and HRT for compliance and trustworthy responses.  
-- 🔹 **Scalable AI Deployment** — Ship services on Azure ML, AKS, and FastAPI with continuous evaluation loops.  
+## ⚙️ What I Do
+- **RAG & agents** — pipelines that plan, retrieve, reason, and verify.  
+- **Context & personalization** — practice-area signals, statute re-ranking, and disambiguation.  
+- **Quality & safety** — Guardrails AI, TruLens, and continuous **HRT**.  
+- **Deploy at scale** — FastAPI services on **Azure ML** / **AKS** with eval loops.
 
 ---
 
-## 💼 Experience  
+## 💼 Experience
 
 <table>
 <tr>
 <td width="110"><img src="https://upload.wikimedia.org/wikipedia/en/1/1c/LexisNexis_logo.svg" width="100"></td>
 <td>
 
-### **Senior Data Scientist I — LexisNexis (Lexis+ AI)**  
-📍 *Remote · Dallas, TX* | **Jul 2025 – Present**
+### Senior Data Scientist I — LexisNexis (Lexis+ AI)  
+**Jul 2025 – Present · Remote (Dallas, TX)**
 
-At LexisNexis, I build **RAG and agentic AI systems** that power the next generation of legal research and drafting.  
-I focus on improving how large language models interpret and respond to **complex legal queries**, combining structured legal data with adaptive prompt orchestration.  
-I lead experiments on **Practice Area personalization**, **statute re-ranking**, and **context injection**, ensuring model safety and reliability with **Guardrails AI**, **TruLens**, and **human relevance testing (HRT)**.
+I design and ship **RAG** and **agentic** workflows that help LLMs interpret complex **legal user queries**. Work includes practice-area personalization, statute re-ranking, context injection, and robust evaluations via **HRT**, all wrapped with safety controls (Guardrails AI, TruLens) and deployed on **AKS**.
 
 </td>
 </tr>
@@ -56,13 +49,10 @@ I lead experiments on **Practice Area personalization**, **statute re-ranking**,
 <td width="110"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Comerica_logo.svg" width="100"></td>
 <td>
 
-### **Machine Learning Engineer — Comerica Bank (Contract)**  
-📍 *Hybrid · Dallas, TX* | **Feb 2024 – Jul 2025**
+### Machine Learning Engineer — Comerica Bank (Contract)  
+**Feb 2024 – Jul 2025 · Hybrid (Dallas, TX)**
 
-Developed **GenAI-powered tools** for internal banking platforms using **Azure OpenAI**, **LangChain**, and **Cognitive Search**.  
-Built **document Q&A** and summarization workflows using **RAG pipelines**, improving access to policy and audit documentation.  
-Integrated **Guardrails AI** and **TruLens** for compliance validation and output safety.  
-Deployed production-ready LLM services through **Azure Kubernetes Service (AKS)** under strict SOC2 governance.
+Built GenAI tools on **Azure OpenAI + LangChain + Cognitive Search** for document Q&A, summaries, and internal support. Deployed on **AKS** with SOC2-aligned controls and validation using **Guardrails AI** and **TruLens**.
 
 </td>
 </tr>
@@ -73,13 +63,10 @@ Deployed production-ready LLM services through **Azure Kubernetes Service (AKS)*
 <td width="110"><img src="https://upload.wikimedia.org/wikipedia/en/d/d0/Sprouts_Farmers_Market_logo.svg" width="100"></td>
 <td>
 
-### **ML Engineer (GenAI) — Sprouts Farmers Market**  
-📍 *Remote · Phoenix, AZ* | **Jan 2023 – Jan 2024**
+### ML Engineer (GenAI) — Sprouts Farmers Market  
+**Jan 2023 – Jan 2024 · Remote (Phoenix, AZ)**
 
-Built a **GPT-powered internal assistant** for store staff that answered questions about inventory, HR, and operations using **LangChain** and **Pinecone**.  
-Analyzed customer survey data with **BERT-based sentiment models**, flagging key issues for store experience teams.  
-Optimized **forecasting models** (Prophet, ARIMA) to reduce overstock and shortages.  
-Set up **Redis-backed caching** for low-latency responses and tracked models using **MLflow** and **GitHub Actions**.
+Built a GPT assistant (inventory/HR/policy), BERT sentiment on survey data, forecasting (Prophet/ARIMA), low-latency APIs with Redis caching, and MLflow tracking.
 
 </td>
 </tr>
@@ -90,14 +77,10 @@ Set up **Redis-backed caching** for low-latency responses and tracked models usi
 <td width="110"><img src="https://upload.wikimedia.org/wikipedia/en/1/1f/Spencer%27s_logo.svg" width="90"></td>
 <td>
 
-### **Data Scientist — Spencer’s Retail**  
-📍 *Hyderabad, India* | **Feb 2020 – Dec 2021**
+### Data Scientist — Spencer’s Retail  
+**Feb 2020 – Dec 2021 · Hyderabad, India**
 
-Segmented millions of customers by purchase behavior using **k-means clustering** for targeted marketing.  
-Developed **LightGBM classification models** to predict repeat buyers with strong precision gains.  
-Built **Airflow data pipelines** integrating multiple POS systems for analytics and forecasting.  
-Used **OCR (Tesseract)** and **spaCy** to extract insights from vendor invoices for spend analysis.  
-Delivered performance dashboards in **Tableau**, driving measurable improvements in promotions and stock planning.
+Customer clustering, repeat-buyer classification (**LightGBM**), **Airflow** pipelines across POS sources, OCR + spaCy for invoice analytics, and Tableau KPIs.
 
 </td>
 </tr>
@@ -105,24 +88,20 @@ Delivered performance dashboards in **Tableau**, driving measurable improvements
 
 ---
 
-## 🧩 Highlights  
-
-- Built **RAG and agentic AI systems** powering Lexis+ AI.  
-- Enhanced **LLM accuracy on legal queries** through contextual retrieval.  
-- Led **Practice Area personalization and statute re-ranking** experiments.  
-- Ensured **AI safety and compliance** with Guardrails AI, TruLens, and HRT.  
+## 🧩 Highlights
+- Built **RAG** and **agentic AI** systems powering Lexis+ AI.  
+- Boosted **LLM precision on legal queries** with context-aware retrieval and re-ranking.  
+- Drove **practice-area personalization** and **statute re-ranking** experiments.  
+- Hardened **safety and evaluation** with Guardrails AI, TruLens, and HRT.
 
 ---
 
-## 🧰 Tech Stack  
-
-| Category | Tools |
-|-----------|-------|
-| **Generative AI** | OpenAI, Azure OpenAI, LangChain, HuggingFace, FAISS, Pinecone |
-| **LLM & NLP** | PyTorch, Transformers, BERT, LLaMA-2, GPT-J, spaCy |
-| **MLOps & Cloud** | Azure ML, AKS, Docker, FastAPI, MLflow, GitHub Actions |
-| **Data & Analytics** | Python, SQL, Pandas, Streamlit, Power BI, Tableau |
-| **Safety & Evaluation** | Guardrails AI, TruLens, Human Relevance Testing |
+## 🧰 Tech Stack
+**GenAI**: OpenAI, Azure OpenAI, LangChain, HuggingFace, FAISS, Pinecone  
+**LLM/NLP**: PyTorch, Transformers, BERT, LLaMA-2, GPT-J, spaCy  
+**MLOps/Cloud**: Azure ML, AKS, Docker, FastAPI, MLflow, GitHub Actions  
+**Data/Viz**: Python, SQL, Pandas, Streamlit, Power BI, Tableau  
+**Safety/Eval**: Guardrails AI, TruLens, Human Relevance Testing
 
 ---
 
@@ -235,22 +214,21 @@ Delivered performance dashboards in **Tableau**, driving measurable improvements
 </tr>
 </table>
 
-
-
 ---
 
-## 🌐 Connect With Me  
-
+## 🌐 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/reddy1999" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Manikanta%20Reddy-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  &nbsp;
-  <a href="mailto:manikantareddyman@gmail.com"><img src="https://img.shields.io/badge/Email-manikantareddyman%40gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge"></a>
-  &nbsp;
-  <a href="https://github.com/Mani9006"><img src="https://img.shields.io/badge/GitHub-Mani9006-black?logo=github&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/reddy1999" target="_blank" title="LinkedIn">
+    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/linkedin.jpg" width="36" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:manikantareddyman@gmail.com" title="Email">
+    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/gmail.png" width="36" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Mani9006" target="_blank" title="GitHub">
+    <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/github.png" width="36" />
+  </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>“Building AI systems that think with context, reason with precision, and earn user trust.”</i>
-</p>
+<p align="center"><i>Building AI that understands context, reasons clearly, and earns trust.</i></p>
