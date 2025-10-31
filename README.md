@@ -78,7 +78,7 @@ My background blends **data science, ML, and software engineering**. I like taki
 <td width="50%" valign="top">
   <img src="https://github.com/Mani9006/pulse-robot-template-28729/raw/main/public/logos/Sprouts.png" width="180" alt="Sprouts"><br><br>
   <b>ML Engineer (GenAI) — Sprouts Farmers Market</b><br>
-  <i>Jan 2023 – Jan 2024 · Remote (Phoenix, AZ)</i>
+  <i>May 2022 – Nov 2023 · Remote (Phoenix, AZ)</i>
   <ul>
     <li>GPT assistant for store ops (inventory/HR/policy) using LangChain + Pinecone.</li>
     <li>BERT sentiment on surveys; forecasting with Prophet/ARIMA.</li>
